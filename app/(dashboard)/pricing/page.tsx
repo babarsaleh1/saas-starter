@@ -92,3 +92,5 @@ function PricingCard({
     </div>
   );
 }
+            <Check className="h-5 w-5 text-orange-500 mr-2 mt-0.5 flex-shrink-0" />
+            <span className="text-gray-700">{feature}</span>updated<
